@@ -1,5 +1,6 @@
 # ManuLifeProject
-UI / UX tests on ManuLife Website
+UI / UX tests on ManuLife Website<br />
+
 Test 1:
 Navigate to the landing page check the buttons.
 
