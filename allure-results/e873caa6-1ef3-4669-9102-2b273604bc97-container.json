@@ -1,0 +1,1 @@
+{"uuid":"e873caa6-1ef3-4669-9102-2b273604bc97","name":"test.investmentTest.setUp","children":["460b2ab7-3516-4375-a84c-2f6217a36698"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700165266170,"stop":1700165269991}],"afters":[],"start":1700165266170,"stop":1700165269991}

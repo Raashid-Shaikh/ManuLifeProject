@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T20:06:04Z" name="Suite" finished-at="2023-11-16T20:08:09Z" duration-ms="125351">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T20:06:04Z" name="Test" finished-at="2023-11-16T20:08:09Z" duration-ms="125351">
+      <class name="test.homePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.homePageTest@60dce7ea]" started-at="2023-11-16T20:06:04Z" name="setUp" finished-at="2023-11-16T20:06:09Z" duration-ms="4683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickNavbar()[pri:0, instance:test.homePageTest@60dce7ea]" started-at="2023-11-16T20:06:09Z" name="clickNavbar" finished-at="2023-11-16T20:07:45Z" duration-ms="96102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNavbar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.homePageTest@60dce7ea]" started-at="2023-11-16T20:07:45Z" name="tearDown" finished-at="2023-11-16T20:07:46Z" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.homePageTest -->
+      <class name="test.mortgageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.mortgageTest@fd8294b]" started-at="2023-11-16T20:07:59Z" name="setUp" finished-at="2023-11-16T20:08:03Z" duration-ms="3627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="calculateMortgage()[pri:0, instance:test.mortgageTest@fd8294b]" started-at="2023-11-16T20:08:03Z" name="calculateMortgage" finished-at="2023-11-16T20:08:09Z" duration-ms="5959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateMortgage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.mortgageTest@fd8294b]" started-at="2023-11-16T20:08:09Z" name="tearDown" finished-at="2023-11-16T20:08:09Z" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.mortgageTest -->
+      <class name="test.investmentTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.investmentTest@662f5666]" started-at="2023-11-16T20:07:46Z" name="setUp" finished-at="2023-11-16T20:07:49Z" duration-ms="3824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navClick()[pri:0, instance:test.investmentTest@662f5666]" started-at="2023-11-16T20:07:49Z" name="navClick" finished-at="2023-11-16T20:07:58Z" duration-ms="8936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navClick -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.investmentTest@662f5666]" started-at="2023-11-16T20:07:58Z" name="tearDown" finished-at="2023-11-16T20:07:59Z" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.investmentTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

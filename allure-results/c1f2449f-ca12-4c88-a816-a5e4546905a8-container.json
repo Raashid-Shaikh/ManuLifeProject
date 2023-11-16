@@ -1,0 +1,1 @@
+{"uuid":"c1f2449f-ca12-4c88-a816-a5e4546905a8","name":"test.mortgageTest.setUp","children":["40192701-0dbd-4fd8-a4d9-aad8b96c66e2"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700165114086,"stop":1700165117574}],"afters":[],"start":1700165114086,"stop":1700165117574}
