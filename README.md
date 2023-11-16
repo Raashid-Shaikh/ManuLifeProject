@@ -2,7 +2,7 @@
 UI / UX tests on ManuLife Website<br />
 
 Test 1:
-Navigate to the landing page check the buttons.
+Navigate to the landing page check the navbar buttons.
 
 Test 2:
 Clicks on "Investments on the navbar". Enters keys to the searchbox. Prints out the suggestions.
