@@ -9,7 +9,7 @@ Clicks on "Investments on the navbar". Enters keys to the searchbox. Prints out 
 Test 3:
 Calculates mortgage price. Displays options based on different payment amounts.
 
-Programming Language: Java '\n'
-Concepts: Inheritance, Abstraction, Page Object Model
-Framework: TestNG
+Programming Language: Java <br />
+Concepts: Inheritance, Abstraction, Page Object Model <br />
+Framework: TestNG <br />
 Library: Selenium
